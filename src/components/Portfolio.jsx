@@ -4,25 +4,25 @@ import { X } from 'lucide-react'
 
 const projects = [
     {
-        image: `${import.meta.env.BASE_URL}images/portfolio-hardwood.png`,
+        image: 'images/portfolio-hardwood.png',
         title: 'Heritage Walnut Herringbone',
         category: 'Hardwood',
         description: 'Elegant herringbone pattern installation in a modern living room. Hand-selected walnut planks with custom stain.',
     },
     {
-        image: `${import.meta.env.BASE_URL}images/portfolio-tile.png`,
+        image: 'images/portfolio-tile.png',
         title: 'Marble Luxury Bathroom',
         category: 'Tile',
         description: 'Large-format Calacatta marble porcelain in a complete master bathroom renovation.',
     },
     {
-        image: `${import.meta.env.BASE_URL}images/portfolio-vinyl.png`,
+        image: 'images/portfolio-vinyl.png',
         title: 'Modern Kitchen LVP',
         category: 'Vinyl / LVP',
         description: 'Waterproof luxury vinyl plank across an open-concept kitchen and dining area.',
     },
     {
-        image: `${import.meta.env.BASE_URL}images/portfolio-laminate.png`,
+        image: 'images/portfolio-laminate.png',
         title: 'Bedroom Retreat',
         category: 'Laminate',
         description: 'Light ash laminate flooring creating a serene, warm bedroom atmosphere.',
